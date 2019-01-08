@@ -5,5 +5,8 @@ $(document).ready(function(){
   $('.carousel.carousel-slider').carousel({
     fullWidth: true
   });
-
+  $(".dropdown-trigger").dropdown();
+  { hover: false 
+  });  
+  $('.sidenav').sidenav();    
 });
