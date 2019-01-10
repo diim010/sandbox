@@ -7,7 +7,6 @@ $(document).ready(function(){
   });
   $(".dropdown-trigger").dropdown();  
   $('.sidenav').sidenav(); 
-  $(".owl-carousel").owlCarousel();   
   $('.owl-carousel').owlCarousel({
     stagePadding: 50,
     loop:true,
